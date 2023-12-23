@@ -1,4 +1,4 @@
-![banner](img/banner.jpg)
+<!--![banner](img/banner.jpg)-->
 <h1 align="center">Hey, I'm Rohan👋🏼</h1>
 <h3 align="center">My journey into the world of technology began with an insatiable curiosity about how things work, which has since evolved into a deep-seated love for coding, problem-solving, and innovation.</h3>
 
